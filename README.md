@@ -6,6 +6,7 @@ The idea would be to add a banner or are at the bottom of the stream for when th
 
 Using Godot I have created the following short example using my CohhVatar. 
 Click here to see the video or click the thumbnail below: 
+
 https://www.youtube.com/watch?v=p0F6zTdH4wk
 
 
