@@ -12,7 +12,8 @@ https://www.youtube.com/watch?v=p0F6zTdH4wk
 [![CohhVatar Example](https://img.youtube.com/vi/p0F6zTdH4wk/0.jpg)](https://www.youtube.com/watch?v=p0F6zTdH4wkE)
 
 Usernames could be displayed above the CohhVatar & Maybe a little sign under it if its a special CohhVatar displayed (Someone who resubbed, donated, VIP, anniversary) 
-![CohhVatar](https://imgur.com/a/wbiSSeU.png)
+
+![CohhVatar](https://i.imgur.com/jACIQZZ.png)
 
 As you can see in this example, My avatar starts from the left and moves on a conveyor belt along the screen to the right side of the video. 
 
