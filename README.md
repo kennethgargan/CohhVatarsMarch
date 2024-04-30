@@ -5,8 +5,14 @@ Idea for end of Stream.
 The idea would be to add a banner or are at the bottom of the stream for when the stream ends. It could show case different CohhVatars by users typing in chat. 
 
 Using Godot I have created the following short example using my CohhVatar. 
+Click here to see the video or click the thumbnail below: 
+https://www.youtube.com/watch?v=p0F6zTdH4wk
+
 
 [![CohhVatar Example](https://img.youtube.com/vi/p0F6zTdH4wk/0.jpg)](https://www.youtube.com/watch?v=p0F6zTdH4wkE)
+
+Usernames could be displayed above the CohhVatar & Maybe a little sign under it if its a special CohhVatar displayed (Someone who resubbed, donated, VIP, anniversary) 
+![CohhVatar](https://imgur.com/a/wbiSSeU.png)
 
 As you can see in this example, My avatar starts from the left and moves on a conveyor belt along the screen to the right side of the video. 
 
@@ -46,6 +52,7 @@ func _physics_process(delta):
 	rotation_degrees += rotation_speed
 
 ```
+
 
 ### OBS Settings
 New Source: Game Capture 
