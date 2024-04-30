@@ -59,3 +59,9 @@ func _physics_process(delta):
 ### OBS Settings
 New Source: Game Capture 
 Enable: Allow Transparency. 
+
+
+
+#### Additional Idea for the Showcase
+- Mods hanging from a cage
+- Animation or effect of a VIP getting sniped by the person who gifted them a sub. 
